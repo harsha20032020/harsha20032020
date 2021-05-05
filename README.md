@@ -12,7 +12,14 @@ I am a Computer Science Undergraduate at IIIT Hyderabad. I love programming, rea
 As a CS Undergraduate ,I love competitive coding and a little bit of web development.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Java     17 mins         █████████████▒░░░░░░░░░░░   53.51 % 
+Groovy   14 mins         ██████████▓░░░░░░░░░░░░░░   43.10 % 
+XML      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+```
+<!--END_SECTION:waka-->
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha20032020&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha20032020&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
