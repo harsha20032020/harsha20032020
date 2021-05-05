@@ -11,14 +11,11 @@ I am a Computer Science Undergraduate at IIIT Hyderabad. I love programming, rea
 
 As a CS Undergraduate ,I love competitive coding and a little bit of web development.
 
-🔭 I’m currently working on Covid Tracking Project.
-🌱 I’m currently learning Data Structures And Algorithms for Competitive Coding.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 How to reach me: On Facebook or Instagram.
-😄 Pronouns: He/Him.
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Covid Tracking Project.
+- 🌱 I’m currently learning Data Structures And Algorithms for Competitive Coding.
+- 📫 How to reach me: On Facebook or Instagram.
+- 😄 Pronouns: He/Him.
+
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
