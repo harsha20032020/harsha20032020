@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=harsha20032020.harsha20032020)
 
-I am a Computer Science Undergraduate at IIIT Hyderabad. I love programming, reading, playing games and traveling.
+I am a Computer Science Undergraduate at IIIT Hyderabad. I love programming, reading, playing games and travelling.
 
 As a CS Undergraduate ,I love competitive coding and a little bit of web development.
 
