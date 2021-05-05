@@ -17,7 +17,7 @@ As a CS Undergraduate ,I love competitive coding and a little bit of web develop
 - 😄 Pronouns: He/Him.
 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/harsha20032020/harsha20032020/main/coding.gif" width="408" height="318" />
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha20032020&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
