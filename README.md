@@ -16,9 +16,6 @@ As a CS Undergraduate ,I love competitive coding and a little bit of web develop
 - 📫 How to reach me: On Facebook or Instagram.
 - 😄 Pronouns: He/Him.
 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/harsha20032020/harsha20032020/main/coding.gif" width="408" height="318" />
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha20032020&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha20032020&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
