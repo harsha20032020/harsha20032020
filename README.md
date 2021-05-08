@@ -1,37 +1,31 @@
-<h1 align="center">Hi 👋, I'm N Harsha Vardhan</h1>
-<h3 align="center">I'm a CS Undergrad at IIITH. I'm interested in competitive programming and a little web development</h3>
+### Hi there 👋 I'm N Harsha Vardhan.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-vardhan-a088951b8/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Harsha20032020.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Harsha56419787)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nharsha_vardhan/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054870770827)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha20032020&label=Profile%20views&color=0e75b6&style=flat" alt="harsha20032020" /> </p>
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=harsha20032020.harsha20032020)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha20032020" alt="harsha20032020" /></a> </p>
+I am a Computer Science Undergraduate at IIIT Hyderabad. I love programming, reading, playing games and travelling.
 
-<p align="left"> <a href="https://twitter.com/harsha56419787" target="blank"><img src="https://img.shields.io/twitter/follow/harsha56419787?logo=twitter&style=for-the-badge" alt="harsha56419787" /></a> </p>
+As a CS Undergraduate ,I love competitive coding and a little bit of web development.
 
-- 🔭 I’m currently working on [C++ Essentials](www.fakeurlwillupdatelater.com)
+- 🔭 I’m currently working on Covid Tracking Project.
+- 🌱 I’m currently learning Data Structures And Algorithms for Competitive Coding.
+- 📫 How to reach me: On Facebook or Instagram.
+- 😄 Pronouns: He/Him.
 
-- 🌱 I’m currently learning **C++ and Py**
-
-- 👯 I’m looking to collaborate on [C++ Essentials](www.fakeurlwillupdatelater.com)
-
-- 👨‍💻 All of my projects are available at [https://github.com/harsha20032020](https://github.com/harsha20032020)
-
-- 📫 How to reach me **Instagram or Facebook.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harsha56419787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="harsha56419787" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsha-vardhan-a088951b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsha-vardhan-a088951b8/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100054870770827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100054870770827" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nharsha_vardhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nharsha_vardhan/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/lonely_coder78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lonely_coder78" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/rockingcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/rockingcoder" height="30" width="40" /></a>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsha20032020&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha20032020&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha20032020&show_icons=true&locale=en&layout=compact" alt="harsha20032020" /></p>
+<!--
+**harsha20032020/harsha20032020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha20032020&show_icons=true&locale=en" alt="harsha20032020" /></p>
+Here are some ideas to get you started:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha20032020&" alt="harsha20032020" /></p>
+
+-->
